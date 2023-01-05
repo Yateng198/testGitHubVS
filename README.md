@@ -6,6 +6,6 @@ This is a test repository for adding GitHub with Visual Studio C# Project
 </p.
 
 ## New test
-This will be the test for member2 branch
+<p>This will be the test for member2 branch
 
-It is not the same branche from master branche
+It is not the same branche from master branche </p>
